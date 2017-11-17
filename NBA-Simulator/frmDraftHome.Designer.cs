@@ -64,7 +64,7 @@
             this.dgvPlayers.RowHeadersVisible = false;
             this.dgvPlayers.RowTemplate.Height = 30;
             this.dgvPlayers.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvPlayers.Size = new System.Drawing.Size(982, 934);
+            this.dgvPlayers.Size = new System.Drawing.Size(982, 1431);
             this.dgvPlayers.TabIndex = 0;
             // 
             // frmDraftHome
@@ -72,7 +72,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
-            this.ClientSize = new System.Drawing.Size(2027, 1227);
+            this.ClientSize = new System.Drawing.Size(2027, 1563);
             this.Controls.Add(this.dgvPlayers);
             this.Name = "frmDraftHome";
             this.Text = "Draft Home";
